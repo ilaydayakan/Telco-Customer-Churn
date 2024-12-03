@@ -1,1 +1,2 @@
-# Telco-Customer-Churn
+# Telco Müşteri Kaybı Analizi
+Proje kapsamında yapılan analizlerde, Random Forest modeli ile müşteri kaybını tahmin etmek için %79.63 doğruluk oranı elde edilmiş ve hiperparametre optimizasyonu ile bu oran %80.91'e yükseltilmiştir. Model, churn olmayan müşterileri tahmin etmede oldukça başarılı olurken, churn olan müşterilerde başarı oranı nispeten daha düşüktür. Risk analizi sonucunda müşteriler düşük, orta ve yüksek risk olarak gruplandırılmış ve yüksek risk grubundaki müşterilerin genellikle aylık sözleşmeye sahip oldukları, kısa süreli müşteri oldukları ve yüksek aylık ücret ödedikleri belirlenmiştir. Bu sonuçlar, churn tahmini ve müşteri bağlılığı artırıcı stratejiler geliştirmek için önemli bir yol göstermektedir.
